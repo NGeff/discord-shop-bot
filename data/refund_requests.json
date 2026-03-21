@@ -1,0 +1,12 @@
+{
+  "REF-000001": {
+    "id": "REF-000001",
+    "orderId": "PED-000002",
+    "userId": "920888751843074079",
+    "reason": "Não funciona",
+    "status": "approved",
+    "createdAt": "2026-03-21T02:15:59.884Z",
+    "resolvedAt": "2026-03-21T02:16:18.390Z",
+    "resolvedBy": "920888751843074079"
+  }
+}

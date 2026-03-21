@@ -1,0 +1,32 @@
+{
+  "guildId": "817506690970419260",
+  "shopName": "STORE TAG",
+  "shopDescription": "Bem-vindo à nossa loja!",
+  "shopEmoji": "🛒",
+  "shopColor": 3066993,
+  "shopBanner": null,
+  "shopThumbnail": null,
+  "categories": [],
+  "logChannelId": null,
+  "salesChannelId": null,
+  "staffRoles": [],
+  "adminRoles": [
+    "1450131088910319840"
+  ],
+  "currency": "BRL",
+  "currencySymbol": "R$",
+  "allowCart": true,
+  "maxCartItems": 10,
+  "orderExpireMinutes": 30,
+  "affiliateCommissionPercent": 5,
+  "requireEmailOnPurchase": false,
+  "maintenanceMode": true,
+  "welcomeDM": true,
+  "shopChannelId": "1450131089640259656",
+  "lowStockThreshold": 5,
+  "lowStockAlerts": true,
+  "allowReviews": true,
+  "requirePurchaseToReview": true,
+  "blacklistEnabled": true,
+  "refundChannelId": "1450131089640259656"
+}

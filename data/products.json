@@ -1,0 +1,15 @@
+{
+  "YNS71G": {
+    "id": "YNS71G",
+    "name": "A",
+    "description": "A",
+    "price": 1.9,
+    "category": "Jogos",
+    "deliveryType": "key",
+    "active": true,
+    "createdAt": "2026-03-21T01:40:50.643Z",
+    "emoji": "📦",
+    "imageUrl": null,
+    "thumbnailUrl": null
+  }
+}

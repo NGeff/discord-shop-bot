@@ -1,0 +1,23 @@
+{
+  "name": "discord-shop-bot",
+  "version": "1.0.0",
+  "description": "Bot de loja completo para Discord com Mercado Pago (polling)",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["discord", "bot", "loja", "mercadopago", "shop", "pix"],
+  "author": "Ghostzinn07 (Geff.js)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "mercadopago": "^2.0.15",
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
